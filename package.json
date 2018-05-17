@@ -1,0 +1,11 @@
+{
+  "name": "swiftlinthook",
+  "version": "1.0.0",
+  "description": "[ swiftlinthook ] provides tools which enable you to commit Swift code to a git repository using a unified style format.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SwiftLint",
+  "license": "MIT licensed"
+}
